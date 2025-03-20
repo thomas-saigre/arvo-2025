@@ -1,0 +1,12 @@
+site_name: "ARVO 2025"
+site_description: "Supplementary Material for Poster Presentation"
+site_url: "https://thomas-saigre.github.io/arvo-2025/"
+theme:
+  name: "material"
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - footnotes
+  - tables
